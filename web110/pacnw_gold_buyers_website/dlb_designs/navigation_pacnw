@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacific Northwest Gold Buyers</title>
+<style type="text/css"></style>
+
+</head>
+
+
+<body>
+
+   <div id="topnav">
+  
+  <ul>
+
+
+<li><a href="index.html">Home</a>
+
+         <ul>
+<li><a href="about_us.html">About Us</a></li>
+ 
+ <li><a href="contact_us.html">Contact Us</a></li>       
+        
+        
+         </ul>
+
+</li>  
+  
+  <li><a href="sell_your_gold.html">Sell Your Gold</a></li>
+  <li><a href="appraisal_kit.html">Appraisal Kit</a></li>
+  
+  <li><a href="precious_metals.html">Precious Metals</a>
+  
+      <ul>
+  
+  
+  
+  <li><a href="gold.html">Gold</a></li> 
+  
+  <li><a href="silver.html">Silver</a></li> 
+  
+  <li><a href="platinum.html">Platinum</a></li> 
+  
+  <li><a href="file:///Volumes/Macintosh%20HD/Users/johnsmith/Documents/web_110/pacnw_goldbuyers_citeroot/we_buy_diamonds.html">We Buy Diamonds</a></li> 
+  
+         </ul>
+  </li>
+  
+  
+  
+  
+  <li><a href="purchase_rounds.html">Purchase Rounds</a>
+  
+  
+      <ul>
+  <li><a href="purchase_silver_rounds.html">Purchase Silver Rounds</a></li>
+ 
+  
+  <li><a href="purchase_gold_rounds.html">Purchase Gold Rounds</a></li>
+      </ul>
+ </li>  
+ <li><a href="sell_today.html">Sell Today</a></li> 
+  
+  
+    </ul>
+               </div>
+                    
+                    
+</body>
+</html>

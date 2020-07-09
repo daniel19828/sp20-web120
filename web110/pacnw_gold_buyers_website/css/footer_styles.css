@@ -1,0 +1,255 @@
+@charset "UTF-8";
+/* CSS Document */
+
+    
+/*THIS IS THE START OF THE FOOTER STYLES*/
+
+.pacnw_footer  {
+	width: 100%;
+	height: 250px;
+	background-color: #030303;
+	clear: both;
+	float: left;
+}
+.a_box  {
+	width: 25%;
+	height: auto;
+	text-align: center;
+	float: right;
+	color: #E0B915;
+    position: relative;
+    top: 20px;
+}
+.b_box {
+	width: 25%;
+	height: auto;
+	float: right;
+	color: #F0BB21;
+	text-align: center;
+    position: relative;
+    top: 20px;
+}
+.c_box {
+	width: 25%;
+	height: auto;
+	float: right;
+	color: #E1CC0C;
+	text-align: center;
+    position: relative;
+    top: 20px;
+}
+.d_box {
+	width: 25%;
+	height: auto;
+	color: #D5F71B;
+	text-align: center;
+    position: relative;
+    top: 20px;
+}
+.e_box {
+	width: 100%;
+	background-color: ;
+	position: relative;
+	color: #F8F3F3;
+	height: auto;
+    position: relative;
+    top: 20px;
+}
+
+
+
+
+
+    
+    .h_box{
+        color: yellow;
+        font-family: cursive;
+        font-size: medium;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 55px;
+        left: 5px;
+}   
+    .i_box{
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 70px;
+        left: 5px;
+}
+
+    .i_box a{
+    text-decoration: none;
+    color: white;
+}
+    .i_box a:hover{
+    color: red;
+}
+
+    .j_box{
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: both;
+        position: relative;
+        top: 80px;
+        left: 5px;
+}
+        
+     .k_box {
+       width: auto;
+       height: auto;
+	   color: white;
+       font-size: small;
+       float: left;
+       clear: both;
+       position: relative;
+       top: 100px;
+       left: 5px;
+}    
+    .k_box a{
+        text-decoration: none;
+        color: white;
+}
+    .k_box a:hover{
+        color: red;
+}
+
+.l_box {
+    color: black;
+	width: 25%;
+	float: left;
+	clear: both;
+	height: 60px;
+}
+.m_box {
+	width: auto;
+	float: right;
+	clear: left;
+	color: #FBFAF8;
+	text-align: right;
+	padding-top: 10px;
+	font-size: small;
+    position: relative;
+    top: 60px;
+    right: 5px;
+}
+.m_box a{
+    text-decoration: none;
+    color: yellow;
+}
+.m_box a:hover{
+    color: red;
+}
+
+.n_box {
+	width: 25%;
+	height: auto;
+	color: #F9F3F3;
+	font-size: 12px;
+	float: left;
+	clear: left;
+	position: relative;
+    top: 75px;
+    left: 5px;
+}
+.o_box {
+	width: 25%;
+	height: auto;
+	color: #black;
+	font-size: medium;
+	float: right;
+	text-align: right;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+   .pacnw_footer .a_box a:hover{
+        color: yellow;
+}
+    .pacnw_footer .a_box a{
+        color: white;
+        text-decoration: none;
+    }
+    
+   .pacnw_footer .b_box a:hover{
+        color: yellow;
+}
+    .pacnw_footer .b_box a{
+        color: white;
+        text-decoration: none;
+    } 
+    
+  .pacnw_footer .c_box a:hover{
+        color: yellow;
+}
+    .pacnw_footer .c_box a{
+        color: white;
+        text-decoration: none;
+    }  
+    
+  .pacnw_footer .d_box a:hover{
+        color: yellow;
+}
+    .pacnw_footer .d_box a{
+        color: white;
+        text-decoration: none;
+    }
+    
+.pacnw_footer .n_box a:hover{
+        color: red;
+}
+    .pacnw_footer .n_box a{
+        color: white;
+        text-decoration: none;
+    }    
+    
+    .pacnw_footer .o_box a:hover{
+        color: white;
+}
+    .pacnw_footer .o_box a{
+        color: yellow;
+        text-decoration: none;
+    }
+     
+    
+.j_box a{
+    color: white;
+    text-decoration: none;
+}
+
+.j_box a:hover{
+    color: red;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

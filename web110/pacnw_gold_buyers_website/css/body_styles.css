@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+
+/*THESE ARE THE STYLES THAT ARE USED IN THE BODY OF THE DOCUMENT*/
+
+.maincontainer{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	/* [disabled]background-color: blue; */
+	height: auto;
+	/* [disabled]max-width: 1200px; */
+	}
+	
+.pacnw_banner{
+	
+	width: 100%
+	position: relative	}
+	
+img{
+	
+max-width: 100%;
+	
+	}	
+	
+.logo{
+	
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 12px;
+	right: 12px;	
+}
+
+
+.cash_for_gold{
+    
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    float: left;
+    clear: both;
+    
+}
+
+.call_now{
+    display: none;
+}
+
+ 
+.phone_number{
+    
+    width: 100%;
+    height: auto;
+    background-color: white;
+    text-align: right;
+    float: right;
+    color: black;
+    margin-right: 20px;
+}
+.phone_number a{
+    text-decoration: none;
+    color: black;
+}
+.phone_number a:hover{
+    
+    color: red;
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 60px;
+}
+
+p{
+    text-align: justify-all;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    float: left;
+    clear: both;
+    
+}
+
+
+  p a{
+            
+            text-decoration: none;
+            color: blue;
+            
+        }     
+        
+        
+        p a:hover{
+            
+            
+            color: red;
+            
+        }        
+        
+        
+
+
+
+
+h2{
+    text-align: center;
+    
+    
+}
+
+.ship_fast{
+    width: 100%
+    height: auto;
+    float: left;
+    clear: none;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

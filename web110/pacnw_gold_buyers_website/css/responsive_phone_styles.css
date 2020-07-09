@@ -1,0 +1,235 @@
+@charset "UTF-8";
+/* CSS Document */
+
+    
+    @media (max-width:580px){
+
+    
+    
+body{
+    width: 100%;
+	height: auto;
+}
+.main_container {
+	width: 100%;
+	height: auto;
+}
+
+#topnav ul li {
+	width: 100%;
+	height: auto;
+	position: relative;
+	text-align: center;
+}
+        
+#topnav ul li ul {
+	position: fixed;
+	text-align: center;
+}
+        
+.big_room{
+    width:90%;
+    height: auto;
+    margin-left: 10px;
+}
+        
+h1{
+    font-size: 130%;
+    padding-bottom: 20px;
+    
+    
+}
+
+.cash_for_gold{
+            
+    width: 100%;
+    height: 2em;
+}
+     
+        
+.call_now{
+    display: flow-root;        
+     width: 80px;
+    height: 80px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 200px; 
+    float: left;
+    clear: none;
+    line-height: -20px;
+    padding-top: 0px;
+    margin-top: -10px;
+    position: sticky;
+    bottom: 200px;
+    left: 20px;
+    bottom: 10px;
+    top: 5px;
+    object-position: bottom;
+    color: white;
+    font-style: bold;
+    font-size: 2em;
+           
+}        
+
+.call_now a{
+            
+    color: white;
+    text-decoration: none;
+}
+
+.call_now a:hover{
+    color: red;
+}
+        
+        
+.phone_number{
+    display: none;
+   
+}
+        
+.phone_number a{
+            
+    color: white;        
+            
+        }        
+        
+        .phone_number a:hover{
+            
+            color: red;
+            
+        }
+       
+h4{
+    width: auto;
+    height: auto;
+    color: black;
+    margin-bottom: -20px;
+            
+            
+        }        
+        
+        
+p{
+    font-size: 80%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+        p a{
+            
+            text-decoration: none;
+            color: blue;
+            
+        }     
+        
+        
+        p a:hover{
+            
+            
+            color: red;
+            
+        }        
+        
+        
+        
+        
+        
+.img{
+    max-width: 100%;
+ }
+        
+/* THIS IS WHERE RESPONSIVE INFORMATION FOR FOOTER STARTS */        
+        
+        
+        
+n_box{
+    width: auto;
+    height: 0px;
+    font-size: 8px;
+    float: left;
+    clear: right;
+    position: relative;
+    bottom: 20px;
+}
+    
+.o_box{
+    width: auto;
+    height: 0px;
+    font-size: 8px;
+    float: right;
+    clear: none;
+    position: relative;
+    bottom: 115px;
+    right: 145px;
+}
+    
+.m_box{
+    width: auto;
+    height: auto;
+    font-size: 8px;
+    float: right;
+    clear: both;
+    position: relative;
+    bottom: 0px;
+    right: 5px;
+}
+        
+  
+    /* I want these styles to controll the leftside, to appear at 480px inside of footer */     
+        
+        
+     
+
+    .h_box{
+        color: yellow;
+        font-family: cursive;
+        font-size: medium;
+        float: left;
+        clear: left;
+        position: relative;
+        top: 55px;
+        left: 5px;
+}   
+    .i_box{
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: left;
+        position: relative;
+        top: 55px;
+        left: 5px;
+}
+        
+    .j_box{
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        float: left;
+        clear: left;
+        position: relative;
+        top: 60px;
+        left: 5px;
+}
+        
+     .k_box {
+       width: auto;
+       height: auto;
+	   color: white;
+       font-size: small;
+       float: left;
+       clear: left;
+       position: relative;
+       left: 5px;
+}    
+        
+        
+        
+        
+        
+        
+        
+        
+}
+
+
